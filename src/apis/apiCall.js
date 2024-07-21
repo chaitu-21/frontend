@@ -1,5 +1,5 @@
 import axios from "axios";
 
 export default axios.create({
-    baseURL: 'http://localhost:4000'
+    baseURL: 'https://backend-final-1-xch7.onrender.com'
 })
